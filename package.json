@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/chousann/gulpToolSet#readme",
   "dependencies": {
-    "gulp": "^4.0.0"
+    "gulp": "^4.0.0",
+    "gulp-ex-replace": "^0.5.8"
   }
 }
